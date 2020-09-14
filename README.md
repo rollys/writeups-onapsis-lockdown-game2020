@@ -14,3 +14,10 @@ Espero que les sirva estos writeups, happy hacking!!!.
 
 -- [@Pwnakil](https://twitter.com/pwnakil)
 
+
+
+Otros writeups
+========
+
+- [@andro1de_](https://github.com/andro1de1/ctfs/blob/master/onapsis.pdf)
+- [@_BrOoDkIlLeR_](https://github.com/estebancano-dev/CTF-Writeups/tree/master/20200829%20Onapsis%20Lockdown%20Games)
